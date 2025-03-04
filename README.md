@@ -1,3 +1,7 @@
+# Fork
+
+Forked version of OpenIris with MIT license. 
+
 # OpenIris
 
 OpenIris is the firmware part of the [EyeTrackVR Project](https://github.com/RedHawk989/EyeTrackVR).
